@@ -1,0 +1,6 @@
+outputs/
+9:22 droneimages/
+*.db
+*.bin
+__pycache__/
+.DS_Store
